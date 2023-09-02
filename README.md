@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blovric91
 - 👀 I’m interested in sql, python, automation, statistical modelling, predictive forecasting and epic vizes. aka usual data stuff.
-- 🌱 I’m currently learning frecasting models.
+- 🌱 I’m currently learning how to develop web applications from the front end.
 - 💞️ I’m looking to collaborate on anything, would love to help build anything :)
 - 📫 How to reach me blaz.lovric.e@gmail.com -> send me anything data. would love to hear from you
 
